@@ -1,0 +1,16 @@
+# Ignore node_modules directory (common in Node.js projects)
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore log files
+*.log
+
+# Ignore build folder
+build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+.vercel
